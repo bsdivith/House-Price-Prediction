@@ -43,9 +43,8 @@ The dataset used for this project is from the book. Due to licensing restriction
 ```
 ├── notebooks/          # Jupyter Notebooks
 ├── src/               # Python scripts (if applicable)
-├── data/              # Dataset (not included)
+├── data/              # Dataset ( included)
 ├── requirements.txt   # Dependencies
-├── .gitignore         # Ignored files
 ├── README.md          # Project documentation
 ```
 
